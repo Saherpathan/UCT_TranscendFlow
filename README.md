@@ -40,7 +40,7 @@ Watch the working video [here](https://drive.google.com/file/d/1qh6icl026eFoYJzT
 
 ## Contribution 🤝
 
-Contributions are welcome! If you have any suggestions or find any issues, feel free to contribute. You can open an [issue](https://github.com/Saherpathan/transcend-flow/issues) or create a [pull request](https://github.com/Saherpathan/transcend-flow/pulls).
+Contributions are welcome! If you have any suggestions or find any issues, feel free to contribute. You can open an [issue](https://github.com/Saherpathan/UCT_TranscendFlow/issues) or create a [pull request](https://github.com/Saherpathan/UCT_TranscendFlow/pulls).
 
 ## License 📝
 
